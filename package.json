@@ -2,10 +2,10 @@
   "name": "egretgame-localserver",
   "displayName": "EgretGame LocalServer",
   "description": "EgretGame LocalServer support for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "publisher": "yaoduoHu",
   "engines": {
-    "vscode": "^1.45.1"
+    "vscode": "^1.47.3"
   },
   "icon": "images/logo.png",
   "repository": {
@@ -56,6 +56,8 @@
     "qr-image": "^3.2.0",
     "semver": "^5.6.0",
     "static-server": "^2.2.1",
-    "vscode-nls": "^3.2.1"
+    "vscode-nls": "^3.2.1",
+		"mime": "^1.2.11",
+		"is-wsl": "^1.1.0"
   }
 }
