@@ -10,5 +10,3 @@ var EgretExtensionCommand;
     EgretExtensionCommand["Server"] = "extension.egretServer";
 })(EgretExtensionCommand || (EgretExtensionCommand = {}));
 exports.EgretExtensionCommand = EgretExtensionCommand;
-
-//# sourceMappingURL=egret.js.map

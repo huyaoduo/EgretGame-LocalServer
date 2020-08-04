@@ -381,5 +381,3 @@ function restart(){
 
 </html>`);
 }
-
-//# sourceMappingURL=project.js.map

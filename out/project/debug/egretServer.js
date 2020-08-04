@@ -82,5 +82,3 @@ class EgretServer {
     }
 }
 exports.EgretServer = EgretServer;
-
-//# sourceMappingURL=egretServer.js.map

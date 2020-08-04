@@ -77,5 +77,3 @@ class Command {
 }
 Command.EGRET_COMMAND = 'egret';
 exports.Command = Command;
-
-//# sourceMappingURL=command.js.map
