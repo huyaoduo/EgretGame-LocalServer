@@ -50,4 +50,3 @@ function createStatusBarButton(btnSetting) {
     button.show();
 }
 
-//# sourceMappingURL=extension.js.map
